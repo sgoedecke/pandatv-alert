@@ -6,7 +6,7 @@ A quick and dirty script to alert you when a streamer you like comes on panda.tv
 
 You should just be able to double-click "main.py".
 
-If that doesn't work for some reason, run it from the command line by typing `python main.py`. It'll beep if EternalEnvy or Arteezy start streaming.
+If that doesn't work for some reason, run it from the command line by typing `python main.py`. It'll beep if anyone from Team Secret starts streaming.
 
 ## Dependencies
 
