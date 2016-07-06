@@ -1,5 +1,4 @@
 #! /usr/bin/env python
-
 import urllib2
 import json
 import smtplib
