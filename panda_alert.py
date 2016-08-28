@@ -44,7 +44,7 @@ def run_alerter():
 		print "\nUser list"
 		print "----------"
 		for username in users:
-			print username
+			print username #display user list
 			for keyword in STREAMER_LIST:
 				if keyword in username:
 					found = True
